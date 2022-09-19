@@ -1,0 +1,6 @@
+Exception in thread "main" java.util.InputNotFoundException
+  at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+  at clique.sur.UnPeuCommeUnHebergeur.puis(Example.java:512) <-
+  at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+
+Process finished with exit code 1
